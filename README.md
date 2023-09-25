@@ -1,7 +1,3 @@
-# Thales Cardoso
-<p>Formado em Análise e Desenvolvimento de Sistemas pela Estácio de Sá.</p>
-<p>Desenvolvedor Front-End Jr.</p>
-
 ## Conecte-se comigo
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://www.dio.me/users/thales_dev)
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:thales.dev@hotmail.com)
