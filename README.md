@@ -11,23 +11,6 @@
 ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)
 ![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)
 
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thalesacardoso&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=blue&text_color=FFF&hide_title=true)
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=thalesacardoso&bg_color=000&border_color=30A3DC&title_color=blue&text_color=FFF&hide_title=true)
-
-
-## Meus Principais Projetos
-
-
-[![Repo JS 1](https://github-readme-stats.vercel.app/api/pin/?username=thalesacardoso&repo=dio-projeto-pokedex&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=blue&text_color=FFF)](https://github.com/thalesacardoso/dio-projeto-pokedex)
-
-[![Repo Front 3](https://github-readme-stats.vercel.app/api/pin/?username=thalesacardoso&repo=dio-clone-hbomax&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=blue&text_color=FFF)](https://github.com/thalesacardoso/dio-clone-hbomax)
-
-[![Repo Front 2](https://github-readme-stats.vercel.app/api/pin/?username=thalesacardoso&repo=dio-clone-discord&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=blue&text_color=FFF)](https://github.com/thalesacardoso/dio-clone-discord)
-
-[![Repo Front 1](https://github-readme-stats.vercel.app/api/pin/?username=thalesacardoso&repo=dio-landingpage1&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=blue&text_color=FFF)](https://github.com/thalesacardoso/dio-landingpage1)
-
 
 ## Cursos e Formação
 <table>
@@ -39,6 +22,15 @@
     </tr>
   </thead>
   <tbody align="left">
+    <tr>
+      <td>Setembro/2023</td>
+      <td>Formação JavaScript Developer</td>
+      <td align="center">
+        <a href="https://www.dio.me/certificate/B6EF173E/share">
+           <img align="center" alt="CERTIFICADO" src="https://img.shields.io/badge/CERTIFICADO-E94D5F?style=for-the-badge">
+        </a>
+      </td>    
+    </tr>
     <tr>
       <td>Agosto/2023</td>
       <td>Formação Lógica de Programação</td>
@@ -78,6 +70,21 @@
   </tbody>
   <tfoot></tfoot>
 </table>
+
+## GitHub Stats
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=thalesacardoso&bg_color=000&border_color=30A3DC&title_color=blue&text_color=FFF&hide_title=true)
+
+
+## Meus Principais Projetos
+
+
+[![Repo JS 1](https://github-readme-stats.vercel.app/api/pin/?username=thalesacardoso&repo=dio-projeto-pokedex&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=blue&text_color=FFF)](https://github.com/thalesacardoso/dio-projeto-pokedex)
+
+[![Repo Front 3](https://github-readme-stats.vercel.app/api/pin/?username=thalesacardoso&repo=dio-clone-hbomax&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=blue&text_color=FFF)](https://github.com/thalesacardoso/dio-clone-hbomax)
+
+[![Repo Front 2](https://github-readme-stats.vercel.app/api/pin/?username=thalesacardoso&repo=dio-clone-discord&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=blue&text_color=FFF)](https://github.com/thalesacardoso/dio-clone-discord)
+
+[![Repo Front 1](https://github-readme-stats.vercel.app/api/pin/?username=thalesacardoso&repo=dio-landingpage1&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=blue&text_color=FFF)](https://github.com/thalesacardoso/dio-landingpage1)
 
 ---
 
